@@ -13,6 +13,7 @@ setup(
   keywords = ['OSRS', 'Oldschool','Runescape','Grand','Exchange','OSBuddy'],
   install_requires=[
     'wheel',
+    'tabulate'
           ],
   classifiers=[
     'Development Status :: 4 - Beta',
