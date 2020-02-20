@@ -9,4 +9,4 @@ Install the module with `pip install GrandExchange`
 
 Import the module with `from GrandExchange import GrandExchange`
 
-A class can be created with `GrandExchange.Exchange`
+A class can be created with `GrandExchange.Exchange()`
